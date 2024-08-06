@@ -35,7 +35,7 @@ If you find a bug, glitch or crash. Please send to us! You would help us too muc
 ## Starting the game
 
 With **GUI**:
-These options must be set using the **GUI**:
+These options may be set using the Minetest menu, or by editing the conf files:
 
  - Enable damage: if making a _local_ server for map making, unmark this option
  - Creative mode: If you wanna use map maker this is needed to be marked, else unmarked if not
